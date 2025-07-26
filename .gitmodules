@@ -1,0 +1,6 @@
+[submodule "hfut_chinese_robotarm_MSPM0G3507"]
+	path = hfut_chinese_robotarm_MSPM0G3507
+	url = https://github.com/cabyssSaikou/hfut_chinese_robotarm_MSPM0G3507.git
+[submodule "hfut_chinese_chess_robotarm"]
+	path = hfut_chinese_chess_robotarm
+	url = https://github.com/tang125810/hfut_chinese_chess_robotarm.git
